@@ -1,2 +1,2 @@
-# EnvDevs-Codes-Projects
-Codes, pins and other form https://t.me/EnvDevs!
+# INFO
+Тут собраны коды для проектов из нашего телграмма, разные гайды и тяжелые файлы, котороые не помещаются в тг!
